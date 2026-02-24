@@ -1,0 +1,7 @@
+{
+    "prefix": ")",
+    "ownerIds": ["OWNER_ID"],
+    "token": "YOUR_TOKEN",
+    "volume": 100000000000000000000000000,
+    "defaultSong": "die.mp3"
+}
